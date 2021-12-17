@@ -1,0 +1,98 @@
+
+#nav{
+	font-family: salty;
+	font-size: 24px;
+	float: right;
+}
+h1{
+	font-family: Verdana, sans-serif;
+	font
+}
+a{
+	text-decoration: none;
+}
+a:hover{
+	font-size: 30;
+}
+div{
+	border-style: dotted;
+}
+body{
+	border-style: dotted;
+
+}
+#th1{
+	width: 100px;
+}
+#th2{
+	width: 100px;
+}
+
+th{
+	width: 200px
+}
+.content{
+	height: 400px;
+}
+.content2{
+	height: 300px;
+	background-color: #D5D9F5; 
+}
+
+.header{
+	height: 150px;
+	border-bottom-style:outset;
+}
+h2{
+	font-family: "monospace" ;
+	font-size: 35px;
+	word-wrap: break-word;
+	padding: 0.1px;
+}
+h3{
+	font-family: "salty";
+	font-size: 23px;
+}
+
+button {
+    background-color: transparent;
+    background-repeat: no-repeat;
+    border-style: double;
+    border-color: white;
+    cursor: pointer;
+    overflow: hidden;
+    outline: none;
+    color: white;
+    width: 400px;
+    height: 70px;
+    font-size: 20px;
+    border-radius: 35px;
+}
+button:hover{
+	background-color: white;
+	color: black;
+}
+ul{
+	list-style-type: none;
+}
+
+li{
+	font-family: sans-serif;
+	font-size: 20px;
+	padding-bottom: 10px;
+	font-weight: bolder;
+}
+td{
+	padding-right: 20px;
+	padding-top: 10px;
+	font-family: sans-serif;
+	font-size: 20px;
+	font-weight: bolder;
+}
+.content3{
+	background-image: url("bg23.jpg")
+	height: 400px;
+}
+   
+
+
