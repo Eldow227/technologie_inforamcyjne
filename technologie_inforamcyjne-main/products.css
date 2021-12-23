@@ -1,0 +1,57 @@
+
+#nav{
+	font-family: salty;
+	font-size: 24px;
+	float: right;
+}
+h1{
+	font-family: Verdana, sans-serif;
+	font
+}
+a{
+	text-decoration: none;
+}
+a:hover{
+	font-size: 30;
+}
+div{
+	border-style: dotted;
+}
+body{
+	border-style: dotted;
+
+}
+#th1{
+	width: 100px;
+}
+#th2{
+	width: 100px;
+}
+
+th{
+	width: 200px
+}
+.content{
+	height: 400px;
+	
+}
+.content2{
+	height: 300px;
+	
+	
+}
+.header{
+	height: 150px;
+	border-bottom-style:outset;
+}
+.tiles{
+
+	width: 900px;
+    font-size: 0;
+    margin: 0 auto;
+}
+.tile{
+	width: calc(900px / 3);
+  	display: inline-block;	
+}
+
