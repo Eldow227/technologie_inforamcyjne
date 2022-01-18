@@ -8,14 +8,14 @@ h1{
 	font-family: Verdana, sans-serif;
 	font
 }
-a{
+.head{
 	text-decoration: none;
 }
-a:hover{
+.head:hover{
 	font-size: 30;
 }
 div{
-	border-style: dotted;
+	border-style:
 }
 body{
 	border-style: dotted;
@@ -43,5 +43,50 @@ th{
 .header{
 	height: 150px;
 	border-bottom-style:outset;
+}
+	
+input[type=text], input[type=password] {   
+        width: 30%;   
+        margin: 8px 0;  
+        padding: 12px 20px;   
+        display: inline-block;   
+        border: 2px solid green;   
+        box-sizing: border-box;   
+}  
 
+.login_label {
+	color: white;
+}
 
+.pass_label{
+	color: white;
+}
+.tekst{
+	color: white;
+	text-align: center;
+}
+form{   
+      
+   }
+.container {   
+        padding: 25px;     
+    }
+button {   
+ 		
+       	width: 10%;  
+        padding: 15px;   
+        margin: 10px 0px;   
+        border: none;   
+        cursor: pointer;   
+         }
+button:hover {   
+        opacity: 0.7;   
+    }
+.button{
+	
+	
+
+}
+.button:hover{
+	font-size: 20px;
+}
