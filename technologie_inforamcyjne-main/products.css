@@ -6,21 +6,15 @@
 }
 h1{
 	font-family: Verdana, sans-serif;
-	font
 }
+
 a{
 	text-decoration: none;
 }
 a:hover{
 	font-size: 30;
 }
-div{
-	border-style: dotted;
-}
-body{
-	border-style: dotted;
 
-}
 #th1{
 	width: 100px;
 }
@@ -55,3 +49,16 @@ th{
   	display: inline-block;	
 }
 
+#nav1{
+	text-align: center;
+	margin: auto;
+}
+
+
+#div7{
+	border: 5px solid grey; border-radius: 5px 10px 5px 10px; 
+}
+
+#div8{
+	border: 5px solid grey; border-radius: 5px 10px 5px 10px; 
+}
