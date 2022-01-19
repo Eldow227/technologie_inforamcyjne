@@ -1,4 +1,3 @@
-
 #nav{
 	font-family: salty;
 	font-size: 24px;
@@ -56,9 +55,14 @@ th{
 
 
 #div7{
-	border: 5px solid grey; border-radius: 5px 10px 5px 10px; 
+	border: 5px solid rgba(255, 255, 255, 0.479); border-radius: 5px 10px 5px 10px; 
 }
 
 #div8{
-	border: 5px solid grey; border-radius: 5px 10px 5px 10px; 
+	border: 5px solid rgba(255, 255, 255, 0.479); border-radius: 5px 10px 5px 10px; 
 }
+
+img#fotografia:hover{
+	opacity : 0.70;
+	filter : alpha(opacity=70);
+	}
