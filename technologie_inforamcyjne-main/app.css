@@ -14,7 +14,13 @@ h1{
 .head:hover{
 	font-size: 30;
 }
+div{
+	border-style:
+}
+body{
+	border-style: dotted;
 
+}
 #th1{
 	width: 100px;
 }
@@ -79,7 +85,6 @@ button:hover {
 .button{
 	
 	
-
 }
 .button:hover{
 	font-size: 20px;
